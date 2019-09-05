@@ -8,6 +8,6 @@
     "grid_side": 4,
     "lstm_state_dim": 64,
     "emb_dim": 32,
-    "data_root": "data\datasets\ucy\univ",
+    "data_root": "data/datasets/ucy/univ",
     "test_dataset_kind": "ucy"
 }
